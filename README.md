@@ -14,13 +14,13 @@ Great to see you here! Yes you're exactly where you needed to be 🎉
 
 - 👨‍💻 Do consider Checking my <a href="https://saadziauddin.000webhostapp.com/" target="blank">**Portfolio**</a>
 
-- 💬 Ask me about anything about **Programming.💻**
+- 🚀 Cheers to endless loops and bug-free adventures!🔥
 
 - 📫 Reach me at **saadziauddin6@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/10W4QVjI2NC6BZeGy4sRYYLVett1c32Nt/view?usp=drive_link" target="blank">**Resume**</a>
 
-- ⚡ Fun fact **I think I am funny😉**
+- ⚡ Fun fact **Merge Conflicts 😅 Character Building**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saad-ziauddin) 
