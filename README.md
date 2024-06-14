@@ -4,29 +4,28 @@ Great to see you here! Yes you're exactly where you needed to be 🎉
 <h1 align="center">Hi 👋, I'm Saad Ziauddin</h1>
 <h3 align="center">A creative and disciplined Software Engineer and a Full Stack Developer who love to create things for internet, having more than 2 years of field experience. I am adept at designing and developing responsive websites and sophisticated software solutions. I've delivered projects to many small to medium-sized businesses over globe from Pakistan.🇵🇰</h3>
 
+// add Right Gif Image
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadziaudin&label=Profile%20views&color=0e75b6&style=flat" alt="saadziaudin" /> </p>
 
-- 🔭 I’m currently working for **Pronet as a Software Engineer, developing large platforms with C#, ASP.NET, React, NodeJs, ViteJS, NestJS, NextJS, TypeScript, Apollo, GraphQL, and many more trending technologies.**
+- 🔭 I’m currently working for **Pronet Private Limited as a Software Engineer, developing large platforms with C#, ASP.NET, React, NodeJs, ViteJS, NestJS, NextJS, TypeScript, Apollo, GraphQL, and many more trending technologies.**
 
-- 🌱 I’m currently learning **DevOps & Cloud: Docker, Kubernetes, Jenkins, AWS, Azure, Google Cloud Platform (GCP), Agile methodologies, CI/CD pipelines.**
+- 🌱 I’m currently learning **DevOps & Cloud:** Docker, Kubernetes, Jenkins, AWS, Azure, Google Cloud Platform (GCP), Agile methodologies, CI/CD pipelines.
 
-- 👨‍💻 All of my projects are available at [https://saadziauddin.000webhostapp.com/](https://saadziauddin.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at my <a href="https://saadziauddin.000webhostapp.com/" target="blank">Portfolio</a>
 
 - 💬 Ask me about **anything about programming.💻**
 
 - 📫 How to reach me **saadziauddin6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10W4QVjI2NC6BZeGy4sRYYLVett1c32Nt/view?usp=drive_link](https://drive.google.com/file/d/10W4QVjI2NC6BZeGy4sRYYLVett1c32Nt/view?usp=drive_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/10W4QVjI2NC6BZeGy4sRYYLVett1c32Nt/view?usp=drive_link" target="blank">Click here...</a>
 
 - ⚡ Fun fact **I think I am funny😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/saadziauddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saadziauddin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saad-ziauddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-ziauddin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saad-ziauddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saad-ziauddin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
