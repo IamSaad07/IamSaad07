@@ -3,7 +3,12 @@
 Great to see you here! Yes, you're exactly where you needed to be 🎉
 
 <h1></h1>
-<h1 align="center">Hi 👋, I'm Saad Ziauddin</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saad+Ziauddin....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <p>💻 A creative and disciplined Software Engineer and Full Stack Developer with extensive experience in crafting innovative solutions for the web. My expertise lies in designing and developing responsive websites and sophisticated software for clients around the globe. I take pride in delivering high-quality projects to businesses of all sizes, ensuring their unique needs are met with excellence.☁️</p>
 <h1></h1>
 
