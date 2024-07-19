@@ -1,12 +1,10 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://saadziauddin.000webhostapp.com/)
+[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://saadziauddin.vercel.app)
 
 Great to see you here! Yes, you're exactly where you needed to be 🎉
 
 <h1></h1>
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saad+Ziauddin....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;My+name+is+Saad!....;Nice+to+meet+you!&center=true&size=30">
 </h1>
 
 <p>💻 A creative and disciplined Software Engineer and Full Stack Developer with extensive experience in crafting innovative solutions for the web. My expertise lies in designing and developing responsive websites and sophisticated software for clients around the globe. I take pride in delivering high-quality projects to businesses of all sizes, ensuring their unique needs are met with excellence.☁️</p>
